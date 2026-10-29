@@ -30,6 +30,7 @@ Medical-Diagnosis-Engine/
 ├── requirements.txt             # Python dependencies
 └── README.md
 
+```
 
 🚀 Core Features
 
