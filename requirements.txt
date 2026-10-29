@@ -1,0 +1,14 @@
+python-dotenv
+pydantic
+networkx
+numpy
+pytest
+google-genai
+requests
+langsmith
+langchain
+langchain-google-genai
+langchain-openai
+langchain-anthropic
+langchain-community
+tavily-python

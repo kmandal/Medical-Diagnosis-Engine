@@ -1,0 +1,13 @@
+{
+    "batch_name": "clinical_respiratory",
+    "targets": [
+        {
+            "target_disease": "COVID-19",
+            "target_symptom": "Loss of Taste ageusia anosmia"
+        },
+        {
+            "target_disease": "Influenza",
+            "target_symptom": "fever cough myalgia"
+        }
+    ]
+}
